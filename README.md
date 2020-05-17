@@ -24,7 +24,7 @@ _Repositorio creado para tareas del curso MAT-267 Series de Tiempo I._
 **Integrantes:**
 
 Bastian Araya
-Franco Gonzales
+Franco Gonzalez
 Daniela Díaz
 
 
