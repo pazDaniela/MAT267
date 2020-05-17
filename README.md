@@ -28,7 +28,7 @@ Franco Gonzales
 Daniela Díaz
 
 
-**Obs:** Se tiene que los desarrollos de este repositorio estan realizados en el lenguaje de programación de python, con el Kernel Pyhton=
+**Obs:** Se tiene que los desarrollos de este repositorio estan realizados en el lenguaje de programación de python, con el Kernel Pyhton=3.0
 
 
 Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono  ![Binder](https://mybinder.org/badge_logo.svg) que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
