@@ -14,14 +14,22 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
 
-* __John Titor__ : [Linkedin](https://www.linkedin.com/in/williamhgates/)
 
-* __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
 * __Licencia__: [MIT](./LICENCE.md)
 
 
-Recopilación de laboratorios, tareas y proyectos de la asignatura MAT281 correspondiente al segundo semestre del año 2019.
+_Repositorio creado para tareas del curso MAT-267 Series de Tiempo I._
+
+**Integrantes:**
+
+Bastian Araya
+Franco Gonzales
+Daniela Díaz
+
+
+**Obs:** Se tiene que los desarrollos de este repositorio estan realizados en el lenguaje de programación de python, con el Kernel Pyhton=
+
 
 Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono  ![Binder](https://mybinder.org/badge_logo.svg) que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
 
